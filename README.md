@@ -2,7 +2,7 @@
 
 ![startech256.png](misc/startech256.png)
 * Repackaged as AppImage (x86_64)
-* [Download Link (~39MB)]()
+* [Download Link (~39MB)](https://github.com/gwojcieszczuk/StartechNotecons01/raw/main/releases/Startech-NOTECONS01-USB-Crash-Cart-Adapter-2308191257-x86_64.AppImage)
 * To be used with the following hardware:
    * [https://www.startech.com/en-us/server-management/notecons01](https://www.startech.com/en-us/server-management/notecons01)
 * List of supported and tested Linux distributions
